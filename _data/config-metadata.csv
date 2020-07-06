@@ -3,8 +3,9 @@ title,Title,
 creator,Creator,
 date,Date Created,
 description,Description,
+recipient,Recipient,true
 subject,Subjects,true
-item_information,Item Information,
+item_information,Item Information,true
 location,Location
 latitude,Latitude
 longitude,Longitude
