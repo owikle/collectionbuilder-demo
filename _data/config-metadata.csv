@@ -1,9 +1,11 @@
 field,display_name,browse_link
 title,Title,
 creator,Creator,
+recipient,Recipient,true
 date,Date Created,
 description,Description,
 subject,Subjects,true
+item_information,Item Information,
 location,Location
 latitude,Latitude
 longitude,Longitude
