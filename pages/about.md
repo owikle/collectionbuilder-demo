@@ -32,17 +32,17 @@ To build one, a user writes in [Markdown](https://guides.github.com/features/mas
 
 - Image --> {% raw %} `{% include feature/item-figure.html objectid="demo_001" width="25" %}`{% endraw %}
 
-{% include feature/item-figure.html objectid="demo_001" width="25" %}
+{% include feature/item-figure.html objectid="psychiana030" width="75" %}
 
 - PDF -- > {% raw %}  `{% include feature/item-pdf-embed.html objectid="demo_002"  width="25" %}`
   {% endraw %}
 
- {% include feature/item-pdf-embed.html objectid="demo_002" width="25" %}
+ {% include feature/item-pdf-embed.html objectid="psychiana014" width="25" %}
 
 - Video: {% raw %} `{% include feature/item-video-embed.html objectid="demo_004" %}`
  {% endraw %}
 
-{% include feature/item-video-embed.html objectid="demo_004" %}
+{% include feature/item-video-embed.html objectid="psychiana001" %}
 
 - Card -- >  {% raw %}`{% include feature/card.md header="This is a Card" header="The card is centered" text="The card features an image from the collection as a cap" objectid="demo_004" width="25" centered="true" %}`
  {% endraw %}
