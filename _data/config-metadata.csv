@@ -1,7 +1,6 @@
 field,display_name,browse_link
 title,Title,
 creator,Creator,
-recipient,Recipient,true
 date,Date Created,
 description,Description,
 subject,Subjects,true

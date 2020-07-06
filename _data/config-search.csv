@@ -2,7 +2,6 @@ field,index,display
 title,true,true
 date,true,true
 creator,true,false
-recipient,true,true
 description,true,true
 subject,true,true
 location,true,false
