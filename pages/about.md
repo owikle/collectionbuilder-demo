@@ -44,7 +44,7 @@ To build one, a user writes in [Markdown](https://guides.github.com/features/mas
 
 {% include feature/item-video-embed.html objectid="demo_004" %}
 
-- Card -- >  {% raw %}`{% include feature/card.md header="This is a Card" header="The card is centered" text="The card features an image from the collection as a cap" objectid="demo_004" width="25" centered="true" %}`
+- Card -- >  {% raw %}`{% include feature/card.md header="This is a Card" text="The card features an image from the collection as a cap" objectid="demo_004" width="25" centered="true" %}`
  {% endraw %}
 
 {% include feature/card.md header="This is a Card" header="The card is centered" text="The card features an image from the collection as a cap" objectid="demo_004" width="25" centered="true"  %}
